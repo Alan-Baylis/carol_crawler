@@ -1,3 +1,5 @@
+full_config.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -90,4 +92,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
->>>>>>> c9373359c222633d9331ed833069b9de0a625ba9

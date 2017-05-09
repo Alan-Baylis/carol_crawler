@@ -1,12 +1,26 @@
 {
   "sites": [
-    "http://chiorinotechnology.com/",
-    "http://www.centrorettili.com/",
-    "http://www.conceriacerbiatto.it/"
+    "http://www.bcn.it",
+    "http://www.conceriawalpier.it",
+    "http://www.zabri.it",
+    "http://www.conceriazonta.com/"
   ],
   "keywords": [
-    "leather",
-    "tree(s)?",
-    "forest(s)?"
+    "forest",
+    "sustainab(ility)?",
+    "environment",
+    "source",
+    "origin",
+    "proven(ance)?(nient)?",
+    "trace(ability)?",
+    "supply chain",
+    "chain of custody",
+    "chain",
+    "carbon",
+    "emission",
+    "14001",
+    "EMAS",
+    "LWG",
+    "Certificat(e)(ion)"
   ]
 }
